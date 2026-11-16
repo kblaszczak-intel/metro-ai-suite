@@ -15,8 +15,8 @@ Application. It is divided into the following sub-sections:
   deployments.
 
 If you encounter a problem that is not addressed in this section, check the
-[GitHub Repository's Issues](https://github.com/open-edge-platform/metro-ai-suite/issues) board. Before
-filing a new issue, review the
+[GitHub Repository's Issues](https://github.com/open-edge-platform/metro-ai-suite/issues) board.
+Before filing a new issue, review the
 [contribution guidelines](https://github.com/open-edge-platform/metro-ai-suite/blob/main/CONTRIBUTING.md).
 
 ## Troubleshooting Common Issues

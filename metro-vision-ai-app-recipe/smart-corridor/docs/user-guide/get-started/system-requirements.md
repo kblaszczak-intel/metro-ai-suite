@@ -10,31 +10,13 @@ This section provides detailed hardware, software, and platform requirements to 
 and run the application efficiently.
 
 
-<!--
-## User Stories Addressed
-- **US-2: Evaluating System Requirements**
-  - **As a developer**, I want to review the hardware and software requirements, so that I can determine if my environment supports the application.
-
-### Acceptance Criteria
-1. A detailed table of hardware requirements (e.g., processor type, memory).
-2. A list of software dependencies and supported operating systems.
-3. Clear guidance on compatibility issues.
--->
-
 ## Supported Platforms
-<!--
-**Guidelines**:
-- Include supported operating systems, versions, and platform-specific notes.
--->
+
 **OS**:
 - Ubuntu OS version 24.04 LTS
 - Ubuntu OS version 26.04 LTS
 
 ## Minimum Requirements
-<!--
-**Guidelines**:
-- Use a table to clearly outline minimum and recommended configurations.
--->
 
 | **Component**       | **Minimum Requirement** |
 |---------------------|-------------------------|
@@ -44,10 +26,7 @@ and run the application efficiently.
 | **Accelerator**     | Integrated GPU and NPU  |
 
 ## Software Requirements
-<!--
-**Guidelines**:
-- List software dependencies, libraries, and tools.
--->
+
 **Required Software**:
 
 - Docker Engine version 24.0 or higher
@@ -56,10 +35,7 @@ and run the application efficiently.
 - unzip
 
 ## Compatibility Notes
-<!--
-**Guidelines**:
-- Include any limitations or known issues with supported platforms.
--->
+
 **Known Limitations**:
 
 - GPU optimizations require Intel® integrated graphics or compatible accelerators.

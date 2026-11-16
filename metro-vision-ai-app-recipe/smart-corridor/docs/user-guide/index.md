@@ -8,13 +8,13 @@
 
 <!--hide_directive
 <div class="component_card_widget">
-  <a class="icon_github" href="https://github.com/open-edge-platform/metro-ai-suite/tree/main/metro-vision-ai-app-recipe/smart-corridor">
+  <a class="icon_github" href="https://github.com/open-edge-platform/metro-ai-suite/tree/release-2026.3.0/metro-vision-ai-app-recipe/smart-corridor">
      GitHub
   </a>
-  <a class="icon_document" href="https://github.com/open-edge-platform/metro-ai-suite/blob/main/metro-vision-ai-app-recipe/smart-corridor/README.md">
+  <a class="icon_document" href="https://github.com/open-edge-platform/metro-ai-suite/blob/release-2026.3.0/metro-vision-ai-app-recipe/smart-corridor/README.md">
      Readme
   </a>
-  <a class="icon_download" href="https://github.com/open-edge-platform/metro-ai-suite/blob/main/metro-vision-ai-app-recipe/smart-corridor/docs/user-guide/get-started.md">
+  <a class="icon_download" href="https://github.com/open-edge-platform/metro-ai-suite/blob/release-2026.3.0/metro-vision-ai-app-recipe/smart-corridor/docs/user-guide/get-started.md">
      Installation guide
   </a>
 </div>
@@ -47,8 +47,8 @@ existing cameras and delivers real-time, coordinated insights for smarter traffi
 
 ## Learn More
 
-- [Scenescape](https://docs.openedgeplatform.intel.com/dev/scenescape/index.html): Intel® scene-based AI software framework.
-- [Deep Learning Streamer Pipeline Server](https://docs.openedgeplatform.intel.com/dev/edge-ai-libraries/dlstreamer-pipeline-server/index.html):
+- [Scenescape](https://docs.openedgeplatform.intel.com/2026.3/scenescape/index.html): Intel® scene-based AI software framework.
+- [Deep Learning Streamer Pipeline Server](https://docs.openedgeplatform.intel.com/2026.3/edge-ai-libraries/dlstreamer-pipeline-server/index.html):
   An Intel® microservice based on Python programming language for video ingestion and deep learning
   inference.
 

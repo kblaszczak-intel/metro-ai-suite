@@ -40,7 +40,7 @@ To get started:
 
 Go to your target directory and clone the suite. To clone a specific release branch, replace
 `main` with the desired tag. To learn more about partial cloning, see the
-[Repository Cloning guide](https://docs.openedgeplatform.intel.com/dev/OEP-articles/contribution-guide.html#repository-cloning-partial-cloning).
+[Repository Cloning guide](https://docs.openedgeplatform.intel.com/2026.3/OEP-articles/contribution-guide.html#repository-cloning-partial-cloning).
 
 ```bash
 git clone --filter=blob:none --sparse --branch main https://github.com/open-edge-platform/metro-ai-suite.git
@@ -235,7 +235,7 @@ child nodes exist:
 5. **Link the Remote Child Scene to the Smart-Corridor Scene**:
 
    The parent's Scene Controller only receives tracks from a child node after the child scene is
-   linked to the Smart-Corridor scene in the Scenescape UI. Do this once for every remote child node, after both the child and the parent are running. 
+   linked to the Smart-Corridor scene in the Scenescape UI. Do this once for every remote child node, after both the child and the parent are running.
 
    **Before you start**, ensure that:
    - The child node is running and the parent can reach it on port `1883` (MQTT TLS) and port `8888` (CA server).
@@ -281,7 +281,7 @@ child nodes exist:
    >   parent, the CA certificates were fetched during the parent installation (`ca-bundle.sh`), and
    >   the child MQTT credentials are correct.
    > - For details about local and remote child scenes, see the Scenescape guide
-   >   [Create and Manage a Scene Hierarchy](https://docs.openedgeplatform.intel.com/dev/scenescape/index.html).
+   >   [Create and Manage a Scene Hierarchy](https://docs.openedgeplatform.intel.com/2026.3/scenescape/index.html).
 
 ## Access the Application and Components
 
@@ -380,9 +380,9 @@ instead of `localhost` for external access:
 
 - [Troubleshooting](./troubleshooting.md): Find detailed steps to resolve common issues
   during deployments.
-- [DL Streamer Pipeline Server](https://docs.openedgeplatform.intel.com/dev/edge-ai-libraries/dlstreamer-pipeline-server/index.html):
+- [DL Streamer Pipeline Server](https://docs.openedgeplatform.intel.com/2026.3/edge-ai-libraries/dlstreamer-pipeline-server/index.html):
   Intel® microservice based on Python programming language for video ingestion and deep learning inference.
-- [Scenescape](https://docs.openedgeplatform.intel.com/dev/scenescape/index.html): Intel® scene-based AI software framework.
+- [Scenescape](https://docs.openedgeplatform.intel.com/2026.3/scenescape/index.html): Intel® scene-based AI software framework.
 
 <!--hide_directive
 :::{toctree}
